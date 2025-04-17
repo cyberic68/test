@@ -1,9 +1,3 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="RDI.(News).ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="Canada Francais",ICI RDI (1)
+#EXTINF:-1  tvg-name="ICI RDI" tvg-id="RDI.ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="Canada Francais",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
-#EXTINF:-1  tvg-name="ICI RDI (2)" tvg-id="RDI.(News).ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="2" group-title="Canada Francais",ICI RDI (2)
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1  tvg-name="ICI Tele Est" tvg-id="ICI.(CBLFT).Toronto.HD.ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="3" group-title="Canada Francais",ICI Tele Est
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_3000.m3u8?Canada
-#EXTINF:-1  tvg-name="ICI Tele Ouest" tvg-id="CBUFT.ICI.Radio-Canada.(Vancouver).(IRC).ca" tvg-logo="https://images.radio-canada.ca/q_auto,w_1000/v1/ici-tele/1x1/icone-logo-carre-ici-tele.png" tvg-chno="5" group-title="Canada Francais",ICI Tele Ouest
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_3000.m3u8?Canada
