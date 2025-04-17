@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+﻿#EXTM3U
 #EXTINF:-1  tvg-name="ICI RDI (1)" tvg-id="RDI.(News).ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="1" group-title="📺 Canada Français",ICI RDI (1)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1  tvg-name="ICI RDI (2)" tvg-id="RDI.(News).ca" tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-RDI.png" tvg-chno="2" group-title="📺 Canada Français",ICI RDI (2)
